@@ -14,6 +14,8 @@
     <link rel="stylesheet" href="./assets/font/themify-icons/themify-icons.css">
 
     <title>Hệ thống tra cứu giấy phép lái xe</title>
+    <link rel="icon" type="image/x-icon" href="https://file1.hutech.edu.vn/file/editor/homepage/stories/hinh34/logo%20CMYK-03.png">
+
   </head>
   <body>
   <body>
